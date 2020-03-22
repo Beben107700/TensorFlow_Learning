@@ -1,4 +1,4 @@
-StockBot
+Machine learning with tensorflow
 =====
 
 
